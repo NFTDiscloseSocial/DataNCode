@@ -1,1 +1,1 @@
-This repository is for disclosing data and code following the MISQ research transparency policy.
+This repository is for the purpose of disclosing data and code following the MISQ research transparency policy.
